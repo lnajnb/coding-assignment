@@ -1,2 +1,2 @@
 # welcome to our coding assignment!! 
-## made by grace, lana, and jonathan
+made by grace, lana, and jonathan :)
