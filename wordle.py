@@ -10,7 +10,7 @@ You have six attempts to guess the word
 game_instruction()
 
 def check_word():
-  hidden_word = "jake"
+  hidden_word = "error"
   attempt = 6
   while attempt > 0:
     guess = str(input("Guess the word: "))
