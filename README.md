@@ -1,2 +1,6 @@
-# welcome to our coding assignment!! 
-made by grace, lana, and jonathan :)
+# Welcome to our coding assignment!! 
+Made by grace, lana, and jonathan :)
+   /ᐢ⑅ᐢ\   ♡   ₊˚  
+꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
+./づ~ :¨·.·¨:     ₊˚  
+           `·..·‘    ₊˚   ♡
